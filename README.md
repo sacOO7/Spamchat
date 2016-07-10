@@ -3,7 +3,7 @@
 ### Introduction
 -----------
 
-This is a ***Android App*** for instant messaging using pushy API.The documentation for using API can be found at https://pushy.me/docs
+This is a ***Android App*** for instant messaging developed using pushy API based on websocket protocol.The documentation for using API can be found at https://pushy.me/docs
 
 ### Features
 ___________
