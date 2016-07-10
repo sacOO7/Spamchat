@@ -51,6 +51,7 @@ public class PushiAPI
         {
             // Throw it
             throw new Exception(map.get("error").toString());
+
         }
     }
 }
