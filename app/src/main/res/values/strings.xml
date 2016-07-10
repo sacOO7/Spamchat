@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SpamChat</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="type_your_message">Enter msg</string>
+    <string name="NoRecent">No recent</string>
+    <string name="Change_name">Change My Name</string>
+
+</resources>
