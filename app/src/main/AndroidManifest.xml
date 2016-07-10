@@ -21,11 +21,11 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <meta-data
-            android:name="com.parse.APPLICATION_ID"
-            android:value="ezdpDL6qbgSo0ni0kYQNXKmYcDPklOx8HbfFbnQx" />
+            android:name="com.parse.APPLICATION_ID"/>
+            <!--Application ID here-->
         <meta-data
-            android:name="com.parse.CLIENT_KEY"
-            android:value="bBnCB43k2bO0gskHxvbeIU2pL5DCXoPVIL0SDGyi" />
+            android:name="com.parse.CLIENT_KEY"/>
+            <!--Client ID here-->
 
         <activity
             android:name=".MainActivity"
